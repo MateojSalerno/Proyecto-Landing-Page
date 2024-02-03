@@ -170,7 +170,6 @@ nav {
         text-align: center;
         margin-bottom: 30px;
         margin-top: 0;
-        margin-top: 75px;
     }
 
     .parrafo {
@@ -181,7 +180,7 @@ nav {
     }
 
     .ul {
-        margin-top: 10px;
+        margin-top: 75px;
         display: flex;
         align-items: baseline;
 
